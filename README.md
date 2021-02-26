@@ -1,2 +1,2 @@
-# jypter-lab
-basic python
+# basic python
+pycharm and juypter notebook
